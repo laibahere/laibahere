@@ -16,11 +16,6 @@
 - 💬 Ask me about **Frontend and Cybersecurity**
 
 - 📫 How to reach me **laibawaseem006@gmail.com or laiba.waseem@studentambassadors.com**
-
-<p> credily: </p>
-
-<a href="https://www.credly.com/badges/d245451b-a5aa-4841-a110-bbff2df6d8b3/linked_in_profile" target = " blank"> </a>
-
 - ⚡ Fun fact **I have read more than 100+ novels**
 
 ### Blogs posts
