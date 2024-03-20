@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laiba Waseem</h1>
 <h3 align="center">I am a Software Engineering  Undergrad who loves making websites and making the internet more secure </h3> 
-<p></p>Microsoft Student Ambassador <p>
+ <h4>Activities</h4>
+ <p></p>Microsoft Student Ambassador <p>
  <p> Co Founder CyberConnect<p>
  <p> GdscUok Community Manager <p>
 
@@ -23,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamlaibay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamlaibay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/laiba-waseem-387176219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/laiba-waseem-387176219" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/laiba-waseem-387176219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/laiba-waseem-387176219" height="30" width="40" /></a>
 <a href="https://instagram.com/laiba.in.cyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laiba.in.cyber" height="30" width="40" /></a>
 <a href="https://medium.com/@laibaincyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@laibaincyber" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/laiba.in.cyber." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laiba.in.cyber." height="30" width="40" /></a>
