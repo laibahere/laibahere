@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamlaibay" target="blank"><img src="https://img.shields.io/twitter/follow/iamlaibay?logo=twitter&style=for-the-badge" alt="iamlaibay" /></a> </p>
 
-- 🌱 I’m currently learning ** Kali Linux and Ethical Hacking**
+- 🌱 I’m currently learning **  Kali Linux and Ethical Hacking **
 
 - 📝 I  write articles on [https://medium.com/@laibaincyber](https://medium.com/@laibaincyber)
 
