@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Laiba Waseem</h1>
-<h3 align="center">I am a Software Engineering who loves making website and making internet more secure. Microsoft Student Ambassador and Co Founder CyberConnect</h3>
+<h3 align="center">I am a Software Engineering who loves making websites and making the internet more secure </h3> 
+<p></p>Microsoft Student Ambassador <p>
+ <p> Co Founder CyberConnect<p>
+ <p> GdscUok Community Manager <p>
 
 <p align="left"> <a href="https://twitter.com/iamlaibay" target="blank"><img src="https://img.shields.io/twitter/follow/iamlaibay?logo=twitter&style=for-the-badge" alt="iamlaibay" /></a> </p>
 
-- 🌱 I’m currently learning **Kali Linux and Ethical Hacking**
+- 🌱 I’m currently learning ** Kali Linux and Ethical Hacking**
 
-- 📝 I regularly write articles on [https://medium.com/@laibaincyber](https://medium.com/@laibaincyber)
+- 📝 I  write articles on [https://medium.com/@laibaincyber](https://medium.com/@laibaincyber)
 
 - 💬 Ask me about **Frontend and Cybersecurity**
 
