@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laiba Waseem</h1>
 <h3 align="center">I am a Software Engineering  Undergrad who loves making websites and making the internet more secure </h3> 
 <p> Cyber Security Enthusist</p>
-<p>OSINT | Article Writer |   </p>
+<p>OSINT | Article Writer    </p>
  <h4>Activities</h4>
  <p></p>Microsoft Student Ambassador <p>
  <p> Co Founder CyberConnect<p>
