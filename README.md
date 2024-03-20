@@ -25,6 +25,8 @@
 
 <h3 align="left">Find me:</h3>
 <p align="left">
+<a href="https://www.credly.com/badges/d245451b-a5aa-4841-a110-bbff2df6d8b3/linked_in_profile" target = " blank"> </a>
+
 <a href="https://twitter.com/iamlaibay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamlaibay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/laiba-waseem-387176219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/laiba-waseem-387176219" height="30" width="40" /></a>
 <a href="https://instagram.com/laiba.in.cyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laiba.in.cyber" height="30" width="40" /></a>
