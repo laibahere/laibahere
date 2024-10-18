@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Laiba Waseem</h1>
 <h3 align="center">I am a Software Engineering  Undergrad I have a passion for software development and cybersecurity  </h3> 
-<p> Cyber Security Enthusist</p>
+<p> Cyber Security Practioner</p>
 <p>OSINT | Article Writer    </p>
  <h4>Activities</h4>
- <p></p>Microsoft Student Ambassador <p>
+ <p></p> Ex-Microsoft Student Ambassador <p>
  <p> Co Founder CyberConnect<p>
- <p> GdscUok Community Manager <p>
+ <p> Ex - GdscUok Community Manager <p>
 
 <p align="left"> <a href="https://twitter.com/iamlaibay" target="blank"><img src="https://img.shields.io/twitter/follow/iamlaibay?logo=twitter&style=for-the-badge" alt="iamlaibay" /></a> </p>
 
