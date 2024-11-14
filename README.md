@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋</h1>
-<h2>I'm Laiba Waseem</h2>
-<h3 align="center">I am a Software Engineering  Undergrad I have a passion for software development and cybersecurity  </h3> 
+<h1 align="center">Hi 👋,I'm Laiba Waseem</h1>
+<h3 align="center">A Software Engineering  Undergrad who have  passion for  Tech  and Security  </h3> 
 <p> Cyber Security Practioner</p>
-<p>OSINT | Article Writer    </p>
+<p>Developer | Technical  Writer | CyberSecurity  </p>
  <h4>Activities</h4>
  <p></p> Ex-Microsoft Student Ambassador <p>
  <p> Co Founder CyberConnect<p>
