@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laiba Waseem</h1>
 <h2 align="center">A Software Engineer who have  passion for  Tech  and Security  </h2> 
-<h3> Cyber Security Practioner</h3>
+<h3> Cyber Security Practitioner </h3>
 <p> more inclined toward <strong> AI Security </strong> <p>
 <h4> Developer | Technical  Writer | CyberSecurity  </h4>
  
